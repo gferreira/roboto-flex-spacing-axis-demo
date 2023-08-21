@@ -80,5 +80,5 @@ There is currently no special handling for ligature and digraph glyphs, which lo
 
 
 [Roboto Flex]: http://github.com/googlefonts/roboto-flex
-[VariableSpacing]: http://github.com/gferreira/VariableSpacing
+[VariableSpacing]: http://github.com/gferreira/fb-variable-spacing
 
