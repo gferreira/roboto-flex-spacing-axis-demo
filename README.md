@@ -22,7 +22,7 @@ Roboto Flex SPAC
 <dd>various scripts to transform the UFO sources and build the variable font
 <dt>spacing states
 <dd>spacing state data in JSON format for all sources
-<dt><a href='http://gferreira.github.io/roboto-flex-spac/'>index.html</a>
+<dt><a href='http://gferreira.github.io/roboto-flex-spacing-axis-demo/'>index.html</a>
 <dd>comparison between spacing axis and tracking
 <dt>Roboto-Flex_SPAC.ttf
 <dd>custom Roboto Flex variable font with a spacing axis
@@ -48,7 +48,7 @@ Roboto Flex SPAC is built on top of the sources and designspace of Roboto Flex.
 
 3. A variable font is then generated from this new designspace using the standard `fontmake` pipeline.
 
-4. The new Roboto Flex SPAC can be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spac/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
+4. The new Roboto Flex SPAC can be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spacing-axis-demo/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
 
 ### Creation of “tight” and “loose” spacing states
 
